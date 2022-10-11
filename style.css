@@ -1,0 +1,61 @@
+    *{ 
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    :root{ 
+        font-size: 62.5%;
+        --font-page: 'Roboto', sans-serif;
+        --color-background: hsl(240, 5%, 7%);
+        --color-bg-play-time:  hsla(194, 100%, 63%, 0.13);
+        --color-text:hsl(0, 0%, 100%);
+    }
+
+    body{ 
+        font-size: 1.6rem;
+        font-family: var(--font-page);
+        background-color: var(--color-background);
+        color: var(--color-text);
+
+        display: grid;
+    
+        min-height: 100vh;
+    }
+    main{ 
+        justify-self: center;
+        align-self: end;
+    }
+    .hide{ 
+        display: none;
+    }
+
+    .timer{ 
+        font-size: clamp(4rem, 4rem + 10vw ,8.8rem);
+        display: flex;
+        margin-bottom: 1.6rem;
+    }
+
+    button{ 
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+    .controls{
+        background-color: var(--color-bg-play-time);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 3.2rem;
+        
+        border-radius: 9999px;
+
+        width: clamp(10rem, 10rem + 30vw, 22.8rem);
+        height: clamp(8rem, 5rem + 10vw, 10.8rem);
+    }
+
+    footer{ 
+        align-self: end;
+        justify-self: end;
+        padding: 0 4rem 3.2rem;
+    }
+
