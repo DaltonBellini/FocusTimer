@@ -5,7 +5,7 @@ Projeto do Stage 5 da Rocketseat, foi incrível poder aprender tanto conceito no
 
 
 
-## Screenshots
+## Imagem do projeto
 
 ![App Screenshot](https://i.imgur.com/8p7WvM8.png)
 
