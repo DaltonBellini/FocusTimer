@@ -1,7 +1,7 @@
 
 # Focus Timer
 
-Projeto do Stage 5 da Rocketseat pronto, foi incrível poder aprender tanto conceito novo de javaScrip.
+Projeto do Stage 5 da Rocketseat, foi incrível poder aprender tanto conceito novo de javaScrip.
 
 
 
