@@ -2,10 +2,6 @@
 # Focus Timer
 
 
-
-
-## Imagem do projeto
-
 ![App Screenshot](https://i.imgur.com/8p7WvM8.png)
 
 
